@@ -1,0 +1,18 @@
+p{
+    font-family: 'verdana dejavu sans serif';
+    background-color: rgb(214, 104, 104);
+    
+}
+
+.evenNo{
+    color: blue;
+    font-size: 36px;
+}
+#num3{
+font-size: 24px;    
+}
+.num4{
+    background-color: rgb(99, 239, 99);
+    font-size: 24px;
+    font-weight: bold;
+}
