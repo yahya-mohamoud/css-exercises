@@ -8,5 +8,10 @@ function toggleModal() {
   backdrop.classList.toggle('show');
 }
 
+function Translate() {
+  const modalDiv = document.querySelector('.popup-modal');
+  
+}
+
 openButton.addEventListener('click', toggleModal);
 closeButton.addEventListener('click', toggleModal);
